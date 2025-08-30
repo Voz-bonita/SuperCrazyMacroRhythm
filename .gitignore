@@ -1,0 +1,8 @@
+.vscode/
+venv/
+temp/
+
+songs/
+
+*.exe
+*.txt
